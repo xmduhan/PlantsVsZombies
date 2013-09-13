@@ -1,0 +1,26 @@
+Exception: Noncontinuable Exception (code 0xc0000025) at address 76B7C41F in thread 1350
+Module: KERNELBASE.dll
+Logical Address: 0001:0000B41F
+
+0018F94C 02790AD0 0000:00000000  ¹@r
+Params: F4DDE880 00000000 00000007 00000008
+
+
+EAX:0018EB0C EBX:00000000 ECX:76B8371A EDX:00000000 ESI:00000012 EDI:00000000
+EIP:02790AD0 ESP:0018F938  EBP:1F4EA210
+CS:0023 SS:002B DS:002B ES:002B FS:0053 GS:002B
+Flags:00200246
+
+Windows Ver: NT 5.1 Service Pack 3 Build 2600
+DDraw Ver: 
+DSound Ver: 
+
+Product: PlantsVsZombies
+Version: GOTY
+Time Loaded: 01:24:11
+Fullscreen: Yes
+Primary ThreadId: 1350
+Times Played: 0
+Build Num: 0
+Build Date: 
+
