@@ -5017,3 +5017,64 @@ LOADED: 'DelayLoad_Background3' 122 ms on [SURVIVAL_POOL_ENDLESS]
 LOADING:Long reanim 'reanim\Zombie_digger.reanim' 119 ms on [SURVIVAL_POOL_ENDLESS]
 LOADING:Long atlas 'reanim\Zombie_digger.reanim' 27 ms on [SURVIVAL_POOL_ENDLESS]
 LOADING:Long sanding 'data/houseofterror28' 132 ms on [SURVIVAL_POOL_ENDLESS]
+Started Mon Oct 21 07:41:46 2013
+
+session id: 1382312505
+LOADED: 'Init' 15 ms on Game Loading
+First Draw Time: 1313 ms
+LOADED: 'LoaderBar' 767 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie.reanim' 238 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_paper.reanim' 302 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 706 ms on Game Loading
+LOADING:Long reanim 'reanim\PeaShooterSingle.reanim' 231 ms on Game Loading
+LOADING:Long reanim 'reanim\SunFlower.reanim' 158 ms on Game Loading
+LOADING:Long reanim 'reanim\CherryBomb.reanim' 112 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_charred.reanim' 113 ms on Game Loading
+LOADING:Long reanim 'reanim\SnowPea.reanim' 213 ms on Game Loading
+LOADING:Long reanim 'reanim\Chomper.reanim' 429 ms on Game Loading
+LOADING:Long reanim 'reanim\Gravebuster.reanim' 118 ms on Game Loading
+LOADING:Long reanim 'reanim\ScaredyShroom.reanim' 168 ms on Game Loading
+LOADING:Long reanim 'reanim\DoomShroom.reanim' 120 ms on Game Loading
+LOADING:Long reanim 'reanim\ThreePeater.reanim' 173 ms on Game Loading
+LOADING:Long reanim 'reanim\Tanglekelp.reanim' 217 ms on Game Loading
+LOADING:Long reanim 'reanim\SeaShroom.reanim' 101 ms on Game Loading
+LOADING:Long reanim 'reanim\Plantern.reanim' 113 ms on Game Loading
+LOADING:Long reanim 'reanim\Cactus.reanim' 474 ms on Game Loading
+LOADING:Long reanim 'reanim\SplitPea.reanim' 135 ms on Game Loading
+LOADING:Long reanim 'reanim\Magnetshroom.reanim' 218 ms on Game Loading
+LOADING:Long reanim 'reanim\Cabbagepult.reanim' 122 ms on Game Loading
+LOADING:Long reanim 'reanim\Cornpult.reanim' 156 ms on Game Loading
+LOADING:Long reanim 'reanim\Coffeebean.reanim' 119 ms on Game Loading
+LOADING:Long reanim 'reanim\Umbrellaleaf.reanim' 128 ms on Game Loading
+LOADING:Long reanim 'reanim\Marigold.reanim' 123 ms on Game Loading
+LOADING:Long reanim 'reanim\GatlingPea.reanim' 290 ms on Game Loading
+LOADING:Long reanim 'reanim\GloomShroom.reanim' 154 ms on Game Loading
+LOADING:Long reanim 'reanim\Cattail.reanim' 149 ms on Game Loading
+LOADING:Long reanim 'reanim\WinterMelon.reanim' 118 ms on Game Loading
+LOADING:Long reanim 'reanim\GoldMagnet.reanim' 296 ms on Game Loading
+LOADING:Long reanim 'reanim\Imitater.reanim' 116 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_polevaulter.reanim' 244 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_football.reanim' 541 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_disco.reanim' 465 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_backup.reanim' 568 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_snorkle.reanim' 330 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_bobsled.reanim' 318 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_dolphinrider.reanim' 177 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_balloon.reanim' 107 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_bungi.reanim' 107 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_ladder.reanim' 103 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_gargantuar.reanim' 139 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_charred_gargantuar.reanim' 107 ms on Game Loading
+Load Time: 43047 ms
+LOADED: 'DelayLoad_Zombatar' 716 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 271 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 426 ms on Game Selector
+LOADED: 'DelayLoad_ChallengeScreen' 116 ms on Challenge Screen
+LOADED: 'DelayLoad_Background3' 134 ms on [SURVIVAL_POOL_ENDLESS]
+LOADING:Long sanding 'data/houseofterror28' 128 ms on [SURVIVAL_POOL_ENDLESS]
+LOADING:Long reanim 'reanim\Zombie_digger.reanim' 122 ms on [SURVIVAL_POOL_ENDLESS]
+LOADING:Long reanim 'reanim\Zombie_zamboni.reanim' 106 ms on [SURVIVAL_POOL_ENDLESS]
+LOADING:Long reanim 'reanim\Zombie_charred_zamboni.reanim' 117 ms on [SURVIVAL_POOL_ENDLESS]
+LOADING:Long atlas 'reanim\Zombie_digger.reanim' 26 ms on [SURVIVAL_POOL_ENDLESS]
