@@ -5091,3 +5091,62 @@ LOADING:Long atlas 'reanim\fire.reanim' 21 ms on [SURVIVAL_POOL_ENDLESS]
 LOADING:Long sanding 'data/houseofterror28' 132 ms on [SURVIVAL_POOL_ENDLESS]
 LOADING:Long reanim 'reanim\Zombie_digger.reanim' 151 ms on [SURVIVAL_POOL_ENDLESS]
 LOADING:Long atlas 'reanim\Zombie_digger.reanim' 29 ms on [SURVIVAL_POOL_ENDLESS]
+Started Sun Oct 20 21:13:19 2013
+
+session id: 1382274798
+LOADED: 'Init' 14 ms on Game Loading
+First Draw Time: 1360 ms
+LOADED: 'LoaderBar' 775 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie.reanim' 232 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_paper.reanim' 171 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 657 ms on Game Loading
+LOADING:Long reanim 'reanim\SunFlower.reanim' 102 ms on Game Loading
+LOADING:Long reanim 'reanim\CherryBomb.reanim' 174 ms on Game Loading
+LOADING:Long reanim 'reanim\PotatoMine.reanim' 116 ms on Game Loading
+LOADING:Long reanim 'reanim\SnowPea.reanim' 142 ms on Game Loading
+LOADING:Long reanim 'reanim\Chomper.reanim' 588 ms on Game Loading
+LOADING:Long reanim 'reanim\ScaredyShroom.reanim' 112 ms on Game Loading
+LOADING:Long reanim 'reanim\ThreePeater.reanim' 340 ms on Game Loading
+LOADING:Long reanim 'reanim\Tanglekelp.reanim' 261 ms on Game Loading
+LOADING:Long reanim 'reanim\fire.reanim' 104 ms on Game Loading
+LOADING:Long reanim 'reanim\SeaShroom.reanim' 122 ms on Game Loading
+LOADING:Long reanim 'reanim\Cactus.reanim' 449 ms on Game Loading
+LOADING:Long reanim 'reanim\SplitPea.reanim' 156 ms on Game Loading
+LOADING:Long reanim 'reanim\Magnetshroom.reanim' 302 ms on Game Loading
+LOADING:Long reanim 'reanim\Cornpult.reanim' 275 ms on Game Loading
+LOADING:Long reanim 'reanim\Coffeebean.reanim' 143 ms on Game Loading
+LOADING:Long reanim 'reanim\Umbrellaleaf.reanim' 116 ms on Game Loading
+LOADING:Long reanim 'reanim\GatlingPea.reanim' 252 ms on Game Loading
+LOADING:Long reanim 'reanim\TwinSunFlower.reanim' 101 ms on Game Loading
+LOADING:Long reanim 'reanim\GloomShroom.reanim' 194 ms on Game Loading
+LOADING:Long reanim 'reanim\GoldMagnet.reanim' 328 ms on Game Loading
+LOADING:Long reanim 'reanim\SpikeRock.reanim' 133 ms on Game Loading
+LOADING:Long reanim 'reanim\CobCannon.reanim' 125 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_polevaulter.reanim' 370 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_football.reanim' 545 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_disco.reanim' 560 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_backup.reanim' 449 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_snorkle.reanim' 180 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_bobsled.reanim' 550 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_dolphinrider.reanim' 266 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_balloon.reanim' 104 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_pogo.reanim' 108 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_bungi.reanim' 116 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_ladder.reanim' 107 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_gargantuar.reanim' 149 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_charred_gargantuar.reanim' 118 ms on Game Loading
+Load Time: 45219 ms
+LOADED: 'DelayLoad_Zombatar' 785 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 316 ms on Game Selector
+LOADING:Long atlas 'reanim\Zombie.reanim' 30 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 495 ms on Game Selector
+LOADED: 'DelayLoad_ChallengeScreen' 130 ms on Challenge Screen
+LOADED: 'DelayLoad_Background3' 129 ms on [SURVIVAL_POOL_ENDLESS]
+LOADING:Long reanim 'reanim\Zombie_digger.reanim' 189 ms on [SURVIVAL_POOL_ENDLESS]
+LOADING:Long atlas 'reanim\Zombie_digger.reanim' 28 ms on [SURVIVAL_POOL_ENDLESS]
+LOADING:Long atlas 'reanim\Tanglekelp.reanim' 23 ms on [SURVIVAL_POOL_ENDLESS]
+LOADING:Long atlas 'reanim\fire.reanim' 25 ms on [SURVIVAL_POOL_ENDLESS]
+Non-cheater failed to preload 'reanim\Zombie_surprise.reanim' on [SURVIVAL_POOL_ENDLESS]
+LOADING:Long sanding 'data/houseofterror28' 128 ms on [SURVIVAL_POOL_ENDLESS]
