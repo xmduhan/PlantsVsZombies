@@ -5150,3 +5150,59 @@ LOADING:Long atlas 'reanim\Tanglekelp.reanim' 23 ms on [SURVIVAL_POOL_ENDLESS]
 LOADING:Long atlas 'reanim\fire.reanim' 25 ms on [SURVIVAL_POOL_ENDLESS]
 Non-cheater failed to preload 'reanim\Zombie_surprise.reanim' on [SURVIVAL_POOL_ENDLESS]
 LOADING:Long sanding 'data/houseofterror28' 128 ms on [SURVIVAL_POOL_ENDLESS]
+Started Sun Oct 20 21:22:29 2013
+
+session id: 1382275348
+LOADED: 'Init' 14 ms on Game Loading
+First Draw Time: 1453 ms
+LOADED: 'LoaderBar' 803 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie.reanim' 229 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_paper.reanim' 159 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 701 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_hand.reanim' 119 ms on Game Loading
+LOADING:Long reanim 'reanim\PeaShooterSingle.reanim' 341 ms on Game Loading
+LOADING:Long reanim 'reanim\SunFlower.reanim' 181 ms on Game Loading
+LOADING:Long reanim 'reanim\CherryBomb.reanim' 124 ms on Game Loading
+LOADING:Long reanim 'reanim\PotatoMine.reanim' 115 ms on Game Loading
+LOADING:Long reanim 'reanim\SnowPea.reanim' 208 ms on Game Loading
+LOADING:Long reanim 'reanim\Chomper.reanim' 374 ms on Game Loading
+LOADING:Long reanim 'reanim\PeaShooter.reanim' 159 ms on Game Loading
+LOADING:Long reanim 'reanim\ThreePeater.reanim' 260 ms on Game Loading
+LOADING:Long reanim 'reanim\Tanglekelp.reanim' 283 ms on Game Loading
+LOADING:Long reanim 'reanim\SeaShroom.reanim' 142 ms on Game Loading
+LOADING:Long reanim 'reanim\Cactus.reanim' 178 ms on Game Loading
+LOADING:Long reanim 'reanim\Blover.reanim' 110 ms on Game Loading
+LOADING:Long reanim 'reanim\SplitPea.reanim' 116 ms on Game Loading
+LOADING:Long reanim 'reanim\Magnetshroom.reanim' 270 ms on Game Loading
+LOADING:Long reanim 'reanim\Pot.reanim' 121 ms on Game Loading
+LOADING:Long reanim 'reanim\Cornpult.reanim' 150 ms on Game Loading
+LOADING:Long reanim 'reanim\Coffeebean.reanim' 116 ms on Game Loading
+LOADING:Long reanim 'reanim\GatlingPea.reanim' 278 ms on Game Loading
+LOADING:Long reanim 'reanim\GloomShroom.reanim' 219 ms on Game Loading
+LOADING:Long reanim 'reanim\GoldMagnet.reanim' 166 ms on Game Loading
+LOADING:Long reanim 'reanim\CobCannon.reanim' 299 ms on Game Loading
+LOADING:Long reanim 'reanim\Imitater.reanim' 124 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_polevaulter.reanim' 323 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_football.reanim' 382 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_disco.reanim' 462 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_backup.reanim' 392 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_snorkle.reanim' 243 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_bobsled.reanim' 185 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_dolphinrider.reanim' 314 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_balloon.reanim' 113 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_bungi.reanim' 139 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_gargantuar.reanim' 143 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_charred_gargantuar.reanim' 131 ms on Game Loading
+Load Time: 44625 ms
+LOADED: 'DelayLoad_Zombatar' 774 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 307 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 481 ms on Game Selector
+LOADED: 'DelayLoad_ChallengeScreen' 116 ms on Challenge Screen
+LOADED: 'DelayLoad_Background3' 137 ms on [SURVIVAL_POOL_ENDLESS]
+LOADING:Long reanim 'reanim\Zombie_digger.reanim' 149 ms on [SURVIVAL_POOL_ENDLESS]
+LOADING:Long atlas 'reanim\Zombie_digger.reanim' 26 ms on [SURVIVAL_POOL_ENDLESS]
+LOADING:Long atlas 'reanim\fire.reanim' 36 ms on [SURVIVAL_POOL_ENDLESS]
+LOADING:Long sanding 'data/houseofterror28' 136 ms on [SURVIVAL_POOL_ENDLESS]
+LOADING:Long atlas 'reanim\Zombie_zamboni.reanim' 25 ms on [SURVIVAL_POOL_ENDLESS]
