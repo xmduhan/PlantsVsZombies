@@ -4857,3 +4857,60 @@ LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 454 ms on Game Selector
 LOADED: 'DelayLoad_ChallengeScreen' 121 ms on Challenge Screen
 LOADED: 'DelayLoad_Background3' 133 ms on Challenge Screen
 LOADING:Long sanding 'data/houseofterror28' 136 ms on [SURVIVAL_POOL_ENDLESS]
+Started Sun Oct 20 20:11:02 2013
+
+session id: 1382271061
+LOADED: 'Init' 16 ms on Game Loading
+First Draw Time: 1375 ms
+LOADED: 'LoaderBar' 853 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie.reanim' 212 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_paper.reanim' 350 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 770 ms on Game Loading
+LOADING:Long reanim 'reanim\PeaShooterSingle.reanim' 224 ms on Game Loading
+LOADING:Long reanim 'reanim\SunFlower.reanim' 163 ms on Game Loading
+LOADING:Long reanim 'reanim\CherryBomb.reanim' 132 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_charred.reanim' 199 ms on Game Loading
+LOADING:Long reanim 'reanim\SnowPea.reanim' 200 ms on Game Loading
+LOADING:Long reanim 'reanim\Chomper.reanim' 392 ms on Game Loading
+LOADING:Long reanim 'reanim\Gravebuster.reanim' 152 ms on Game Loading
+LOADING:Long reanim 'reanim\ThreePeater.reanim' 242 ms on Game Loading
+LOADING:Long reanim 'reanim\Tanglekelp.reanim' 263 ms on Game Loading
+LOADING:Long reanim 'reanim\SeaShroom.reanim' 190 ms on Game Loading
+LOADING:Long reanim 'reanim\Cactus.reanim' 231 ms on Game Loading
+LOADING:Long reanim 'reanim\Blover.reanim' 110 ms on Game Loading
+LOADING:Long reanim 'reanim\SplitPea.reanim' 166 ms on Game Loading
+LOADING:Long reanim 'reanim\Magnetshroom.reanim' 281 ms on Game Loading
+LOADING:Long reanim 'reanim\Cabbagepult.reanim' 115 ms on Game Loading
+LOADING:Long reanim 'reanim\Cornpult.reanim' 153 ms on Game Loading
+LOADING:Long reanim 'reanim\Garlic.reanim' 145 ms on Game Loading
+LOADING:Long reanim 'reanim\GatlingPea.reanim' 165 ms on Game Loading
+LOADING:Long reanim 'reanim\GloomShroom.reanim' 163 ms on Game Loading
+LOADING:Long reanim 'reanim\Cattail.reanim' 172 ms on Game Loading
+LOADING:Long reanim 'reanim\GoldMagnet.reanim' 203 ms on Game Loading
+LOADING:Long reanim 'reanim\CobCannon.reanim' 178 ms on Game Loading
+LOADING:Long reanim 'reanim\Imitater.reanim' 101 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_polevaulter.reanim' 358 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_football.reanim' 564 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_disco.reanim' 561 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_backup.reanim' 654 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_snorkle.reanim' 309 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_bobsled.reanim' 461 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_dolphinrider.reanim' 362 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_jackbox.reanim' 136 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_balloon.reanim' 106 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_pogo.reanim' 119 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_bungi.reanim' 128 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_ladder.reanim' 110 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_gargantuar.reanim' 174 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_charred_gargantuar.reanim' 127 ms on Game Loading
+Load Time: 46078 ms
+LOADED: 'DelayLoad_Zombatar' 812 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 301 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 462 ms on Game Selector
+LOADED: 'DelayLoad_ChallengeScreen' 115 ms on Challenge Screen
+LOADED: 'DelayLoad_Background3' 147 ms on [SURVIVAL_POOL_ENDLESS]
+Non-cheater failed to preload 'reanim\Zombie_surprise.reanim' on [SURVIVAL_POOL_ENDLESS]
+LOADING:Long sanding 'data/houseofterror28' 134 ms on [SURVIVAL_POOL_ENDLESS]
+SetAchievement ë)‹…Òt#‹L$·Â;AsiÀ
